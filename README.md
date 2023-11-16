@@ -1,7 +1,7 @@
 
 **AutoGPT-Reddify Privacy Policy**
 
-_Last Updated: 16/11/2023
+Last Updated: 16/11/2023
 
 **Introduction:**
 AutoGPT-Reddify is a Chrome extension designed to enhance Reddit user experience by providing automated responses using ChatGPT. We are committed to protecting the privacy and security of our users’ data.
